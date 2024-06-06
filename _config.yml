@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haomin Liang"
+title                    : "Haomin's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Jamie-HM.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Jamie-HM/Jamie-HM.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "CS@Shenzhen Tech"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Shenzhen Tech University"
   uri              : # URL
   email            : "jamie24618@gmail.com" 
 
