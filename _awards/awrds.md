@@ -1,5 +1,7 @@
 ---
 title: "Selected Awards"
+collection: awards
+permalink: /awards/awrds
 ---
 
 -   *2020*  Third Prize of SZTU Freshman Scholarship (3,000 CNY)
