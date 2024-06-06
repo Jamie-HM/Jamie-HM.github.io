@@ -22,10 +22,10 @@ repository               : "Jamie-HM/Jamie-HM.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Your Sidebar Name"
+  name             : "Haomin Liang"
   pronouns         : # example: "she/her"  
   bio              : "CS@Shenzhen Tech"
-  location         : "Earth"
+  location         : "Shenzhen, China"
   employer         : "Shenzhen Tech University"
   uri              : # URL
   email            : "jamie24618@gmail.com" 
