@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Haomin Liang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CS@Shenzhen Tech"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
