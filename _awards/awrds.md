@@ -1,9 +1,12 @@
----
+layout: archive
 title: "Selected Awards"
-collection: awards
-permalink: /awards/awrds
+permalink: /awards/
+author_profile: true
+redirect_from:
+  - /honor
 ---
 
+{% include base_path %}
 -   *2020*  Third Prize of SZTU Freshman Scholarship (3,000 CNY)
 -   *2022*  China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
 -   *2023*  SZTU President Scholarship (20,000 CNY)
