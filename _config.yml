@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Haomin's Homepage"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Jamie-HM.github.io
