@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Selected Awards"
 permalink: /awards/
