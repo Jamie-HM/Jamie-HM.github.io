@@ -9,4 +9,4 @@ redirect_from:
 
 My name is Haomin Liang, I'm a undergraduate student from [SZTU](https://english.sztu.edu.cn/). 
 
-My research interest includes Multi-modal LLM and Medical Image Analysis.
+My research interest includes Vision-Language Models(VLMs) and Medical Image Analysis.
