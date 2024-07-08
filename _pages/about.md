@@ -29,7 +29,7 @@ Previously, I earned my B.S. degree from Shenzhen Technology University.
 # 📝 Publications 
 Working in Progress: NeurIPS (1: Under Review);
 
-## 📌 Pinned
+
 <div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/emcobench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-top-text' markdown="1">
 
