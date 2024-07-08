@@ -24,7 +24,7 @@ Previously, I earned my B.S. degree from Shenzhen Technology University.
 
 
 # 🔥 News
-- *2024.06*: : We propose a new task and benchmark about understanding emotional triggers. Checkout the EmCoBench[https://github.com/Lum1104/EmCoBench].
+- *2024.06*: : We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench).
 
 # 📝 Publications 
 
