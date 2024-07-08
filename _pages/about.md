@@ -42,7 +42,7 @@ Previously, I earned my B.S. degree from Shenzhen Technology University.
 
 
 # 💻 Experience
-- *2024.07 - present* Research Assistant, SZTU
+- *2024.07 - 2025.06* Research Assistant, SZTU
 
 
 # 🎖 Selected Awards
