@@ -25,7 +25,7 @@ My research interest mainly includes:
 
 
 # 🔥 News
-- *2024.06*:  Outstanding Undergraduate Graduates of [Shenzhen Technology University](https://english.sztu.edu.cn/).
+- *2024.06*:  Outstanding Undergraduate Graduates of Shenzhen Technology University.
 - *2024.06*:  We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench).
 - *2024.01*:  I was awarded the President Scholarship (20,000 CNY).
 
