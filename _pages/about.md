@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Shenzhen Technology University as a research assistant now in China.
+I work at Shenzhen Technology University as a research assistant now in China. Previously, I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) in 2024.
 
-Previously, I earned my B.S. degree from Shenzhen Technology University.
+You can find me at [jamie24618@gmail.com](jamie24618@gmail.com).
 
+My research interest mainly includes:
+- **Medical lmage Analysis**: Weekly supervised Learning.
+- **Surgical 2D/3D Vision**
 
 
 # 🔥 News
