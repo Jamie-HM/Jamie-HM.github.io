@@ -34,7 +34,9 @@ Working in Progress: NeurIPS (1: Under Review);
 <div class='paper-box-top-text' markdown="1">
 
 [EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emcobench_paper.pdf)
+
 Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
+
 **<font color=red>ArXiv</font>** \| [[Paper]](../resources/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
 
 - We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
