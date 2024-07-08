@@ -24,30 +24,34 @@ Previously, I earned my B.S. degree from Shenzhen Technology University.
 
 
 # 🔥 News
-- *2024.06*: : We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench).
+- *2024.06*:  We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench).
 
 # 📝 Publications 
+Working in Progress: NeurIPS (1: Under Review);
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 📌 Pinned
+<div class='paper-box-top'><div class='paper-box-top-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/emcobench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-top-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emcobench_paper.pdf)
+Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
+**<font color=red>ArXiv</font>** \| [[Paper]](../resources/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
+- We introducing the Coarse-to-Fine Self-Ask (CFSA) method, a novel VLLM-assisted data annotation technique;
+- We developing the EmCoBench dataset, which includes 78 fine-grained emotions and 1,655 emotion comprehension samples, with 50 multifacets complex samples;
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 
 # 💻 Experience
-- *2024.07 - 2025.06* Research Assistant, SZTU
+- *2024.07 - 2025.06* &ensp; Research Assistant, SZTU
 
 
 # 🎖 Selected Awards
-- *2020* Third Prize of SZTU Freshman Scholarship (3,000 CNY)
-- *2022* China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
-- *2023* SZTU President Scholarship (20,000 CNY)
-- *2024* First Prize of Research and Innovation Award (3,000 CNY)
-- *2024* Star of Craftsmanship (1,000 CNY)
+- *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
+- *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
+- *2023* &ensp; SZTU President Scholarship (20,000 CNY)
+- *2024* &ensp; First Prize of Research and Innovation Award (3,000 CNY)
+- *2024* &ensp; Star of Craftsmanship (1,000 CNY)
