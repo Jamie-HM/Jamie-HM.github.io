@@ -42,17 +42,7 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[xxx]
-
-**xxx**
-
-[**Project**](https://jamie-hm.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- xxx. 
-</div>
-</div>
 
 # 💻 Experience
 - *2024.07 - 2025.06* &ensp; Research Assistant, SZTU
