@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Shenzhen Technology University as a research assistant now in China. Previously, I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) in 2024.
+I work at Shenzhen Technology University as a research assistant now in China. Previously, I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024.
 
 My research interest mainly includes:
 - **Medical lmage Analysis**: Weekly supervised Learning, LLM Application.
