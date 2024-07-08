@@ -50,6 +50,7 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 # ⛰️ Experience
 - *2024.09 - 2025.06* &ensp; Research Assistant, [SZTU](https://english.sztu.edu.cn/)
 - *2024.07 - 2024.08* &ensp; Research Assistant, [Würzburg Dynamics](https://pitchbook.com/profiles/company/515713-96#overview)
+- *2021.09 - 2022.01* &ensp; Research Assistant, SZTU - Tencent Cloud and Smart Industries Group ([CSIG](https://www.tencentcloud.com/) [Lab](https://english.sztu.edu.cn/info/1004/2378.htm)
 
 # 🏅 Selected Awards
 - *2024* &ensp; Outstanding Undergraduate Graduates of SZTU (top 4%)
