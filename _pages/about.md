@@ -39,10 +39,6 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 
 **<font color=red>ArXiv</font>** \| [[Paper]](../resources/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
 
-- We proposing the Emotion Comprehension task, which focuses on identifying emotional triggers rather than merely classifying emotions, crucial for building more empathetic systems;
-- We introducing the Coarse-to-Fine Self-Ask (CFSA) method, a novel VLLM-assisted data annotation technique;
-- We developing the EmCoBench dataset, which includes 78 fine-grained emotions and 1,655 emotion comprehension samples, with 50 multifacets complex samples;
-
 </div>
 </div>
 
