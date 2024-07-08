@@ -27,7 +27,9 @@ My research interest mainly includes:
 
 
 # 🔥 News
+- *2024.06*:  Outstanding Undergraduate Graduates of [Shenzhen Technology University](https://english.sztu.edu.cn/).
 - *2024.06*:  We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench).
+- *2024.01*:  I was awarded the President Scholarship (20,000 CNY).
 
 # 📑 Publications 
 Working in Progress: NeurIPS (1: Under Review);
@@ -48,7 +50,7 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 
 
 # ⛰️ Experience
-- *2024.07 - 2025.06* &ensp; Research Assistant, SZTU
+- *2024.07 - 2025.06* &ensp; Research Assistant, [SZTU](https://english.sztu.edu.cn/)
 
 
 # 🏅 Selected Awards
