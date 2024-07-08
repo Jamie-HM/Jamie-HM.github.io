@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haomin Liang"
   avatar           : "images/Jamie.jpg"
-  bio              : "Shenzhen Tech"
+  bio              : "CS@Shenzhen Tech"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Jamie-HM"
   google_plus      :
   keybase          :
   instagram        :
