@@ -19,13 +19,12 @@ redirect_from:
 
 I work at Shenzhen Technology University as a research assistant now in China.
 
-I earned my B.S. degree from Shenzhen Technology University.
+Previously, I earned my B.S. degree from Shenzhen Technology University.
 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: : We propose a new task and benchmark about understanding emotional triggers. Checkout the EmCoBench[https://github.com/Lum1104/EmCoBench].
 
 # 📝 Publications 
 
