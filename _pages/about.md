@@ -40,6 +40,9 @@ Previously, I earned my B.S. degree from Shenzhen Technology University.
 </div>
 </div>
 
+# 🎖 Experience
+- *2024.07 - present* Research Assistant, SZTU
+
 # 🎖 Selected Awards
 - *2020* Third Prize of SZTU Freshman Scholarship (3,000 CNY)
 - *2022* China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
