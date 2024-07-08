@@ -52,8 +52,8 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 
 
 # 🏅 Selected Awards
-- *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
+- *2024* &ensp; Outstanding Undergraduate Graduates of SZTU (top 4%)
+- *2024* &ensp; President Scholarship of SZTU (20,000 CNY)
+- *2023* &ensp; First Prize of Research and Innovation Award (3,000 CNY)
 - *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
-- *2023* &ensp; SZTU President Scholarship (20,000 CNY)
-- *2024* &ensp; First Prize of Research and Innovation Award (3,000 CNY)
-- *2024* &ensp; Star of Craftsmanship (1,000 CNY)
+- *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
