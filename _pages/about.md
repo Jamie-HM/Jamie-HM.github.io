@@ -23,10 +23,10 @@ Previously, I earned my B.S. degree from Shenzhen Technology University.
 
 
 
-# News
+# 🔥 News
 - *2024.06*:  We propose a new task and benchmark about understanding emotional triggers. Checkout the [EmCoBench](https://github.com/Lum1104/EmCoBench).
 
-# Publications 
+# 📑 Publications 
 Working in Progress: NeurIPS (1: Under Review);
 
 
@@ -44,11 +44,11 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 
 
 
-# Experience
+# ⛰️ Experience
 - *2024.07 - 2025.06* &ensp; Research Assistant, SZTU
 
 
-# Selected Awards
+# 🏅 Selected Awards
 - *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
 - *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
 - *2023* &ensp; SZTU President Scholarship (20,000 CNY)
