@@ -59,3 +59,6 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 - *2023* &ensp; First Prize of Research and Innovation Award (3,000 CNY)
 - *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
 - *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
+
+<div align="center" style="width:20%">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=19o6NVejvx_OQ12UlrBaycDhnbQgqlvP0_d85P_elvg"></script>
