@@ -61,13 +61,10 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 - *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
 
 ```html
-<table style="width:100%; margin-left:auto; margin-right:auto;">
-  <tr>
-    <td align="center">
-      <div style="width:20%">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=19o6NVejvx_OQ12UlrBaycDhnbQgqlvP0_d85P_elvg"></script>
-      </div>
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <div style="width: 20%; display: inline-block;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=19o6NVejvx_OQ12UlrBaycDhnbQgqlvP0_d85P_elvg"></script>
+  </div>
+</div>
+
 
