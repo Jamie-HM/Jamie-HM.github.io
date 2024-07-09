@@ -62,6 +62,5 @@ Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng,
 
 ```html
 <div align="center" style="width:20%">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=19o6NVejvx_OQ12UlrBaycDhnbQgqlvP0_d85P_elvg">
-</script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=19o6NVejvx_OQ12UlrBaycDhnbQgqlvP0_d85P_elvg"></script>
 </div>
