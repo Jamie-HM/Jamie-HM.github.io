@@ -21,7 +21,6 @@ I work at Shenzhen Technology University as a research assistant now in China. P
 
 My research interest mainly includes:
 - **Medical lmage Analysis**
-- **Surgical 2D/3D Vision**
 - **LLM**
 
 
