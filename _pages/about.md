@@ -30,20 +30,8 @@ My research interest mainly includes:
 - *2024.01*:  I was awarded the President Scholarship (20,000 CNY).
 
 # 📑 Publications 
-Working in Progress: NeurIPS (1: Under Review);
+Working in Progress (1: Under Review);
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Preprint</div><img src='resources/emcobench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[EmCoBench: An Extensive Benchmark for General Emotion Comprehension](../resources/emcobench_paper.pdf)
-
-Yuxiang Lin, Jue Wang, **Haomin Liang**, Zebang Cheng, Jun-Yan He, Zhi-Qi Cheng, Xiaojiang Peng, Alexander G. Hauptmann
-
-**<font color=red>ArXiv</font>** \| [[Paper]](../resources/emcobench_paper.pdf) [[Code]](https://github.com/Lum1104/EmCoBench)
-
-</div>
-</div>
 
 
 
