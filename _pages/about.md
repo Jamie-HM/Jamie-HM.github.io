@@ -26,7 +26,7 @@ My research interest mainly includes:
 
 # 🔥 News
 - *2024.06*:  Outstanding Undergraduate Graduates of Shenzhen Technology University.
-- *2024.01*:  I was awarded the President Scholarship (20,000 CNY).
+- *2024.01*:  I was awarded the President Scholarship.
 
 # 📑 Publications 
 Working in Progress (1: Under Review);
