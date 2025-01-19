@@ -29,7 +29,7 @@ My research interest mainly includes:
 - *2024.01*:  I was awarded the President Scholarship.
 
 # 📑 Publications 
-Working in Progress (3: Under Review);
+Working in Progress (2: Under Review);
 
 
 
