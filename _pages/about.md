@@ -23,6 +23,7 @@ I work at Shenzhen Technology University as a research assistant<img src='images
 My research interest mainly includes:
 - **Medical lmage Analysis**
 - **LLM**
+- **Bioinformatics**
 
 
 # 🔥 News
