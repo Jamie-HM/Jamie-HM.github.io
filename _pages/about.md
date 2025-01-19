@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi! I’m Haomin, feel free to call me Jamie.
+
 I work at Shenzhen Technology University as a research assistant<img src='images/logo_xtalent.png' style='width: 1.1em;'>, advised by Prof. [Bingding Huang](https://scholar.google.com/citations?user=jfUwaAoAAAAJ&hl=en&oi=ao). Previously, I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024.
 
 My research interest mainly includes:
