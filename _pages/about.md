@@ -37,14 +37,14 @@ Working in Progress (2: Under Review);
 
 
 # 🧑‍💻 Experience
-- *2024.07 - 2024.12* &ensp; Research Assistant, SZTU - [Würzburg Dynamics Inc](https://mp.weixin.qq.com/s/2P0O75t3Q3waspIw2GwB_g).
+- *2024.07 - 2024.12* &ensp; Research Assistant, SZTU - [Würzburg Dynamics Co., Ltd](https://mp.weixin.qq.com/s/2P0O75t3Q3waspIw2GwB_g).
 - *2021.09 - 2022.08* &ensp; Research Assistant, SZTU - Tencent Cloud & Smart Industries Group ([CSIG](https://www.tencentcloud.com/)) [Lab](https://english.sztu.edu.cn/info/1004/2378.htm).
 
 # 🏅 Selected Awards
 - *2024* &ensp; Outstanding Undergraduate Graduates of SZTU (top 4%)
-- *2024* &ensp; President Scholarship of SZTU (20,000 CNY)
+- *2024* &ensp; President Scholarship of SZTU (top 2%, 20,000 CNY)
 - *2023* &ensp; First Prize of Research and Innovation Award (3,000 CNY)
-- *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 2%)
+- *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 3%)
 - *2020* &ensp; Third Prize of SZTU Freshman Scholarship (3,000 CNY)
 
 <div align="center">
