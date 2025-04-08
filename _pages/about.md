@@ -37,7 +37,7 @@ Working in Progress (2: Under Review, 1: Revision);
 
 
 
-# 🧑‍💻 Experience
+# 💻 Experience
 - *2024.07 - 2025.01* &ensp; Research Assistant, SZTU - [Würzburg Dynamics Co., Ltd](https://mp.weixin.qq.com/s/2P0O75t3Q3waspIw2GwB_g).
 - *2021.09 - 2022.08* &ensp; Research Assistant, SZTU - Tencent Cloud & Smart Industries Group ([CSIG](https://www.tencentcloud.com/)) [Lab](https://english.sztu.edu.cn/info/1004/2378.htm).
 
