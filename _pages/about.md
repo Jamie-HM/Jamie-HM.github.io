@@ -60,7 +60,7 @@ Working in Progress (2: Under Review, 1: Revision);
 
 <div align="center">
   <div style="white-space: nowrap;">
-    © Haomin Liang | 2025
+    © Haomin Liang | 2025.04
   </div>
 </div>
 <br>
