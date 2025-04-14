@@ -27,7 +27,12 @@ My research interest mainly includes:
 
 **Email**: <u>jamie24618@gmail.com</u>
 
-<span style="color:blue;">I'm open to academic discussions, so feel free to email me anytime.</span>
+<div align="center">
+  <div style="white-space: nowrap;">
+    <span style="color:blue;">I'm open to academic discussions, so feel free to email me anytime.</span>
+  </div>
+</div>
+<br
 
 # 🔥 News
 - *2024.06*:  Outstanding Undergraduate Graduates of Shenzhen Technology University.
