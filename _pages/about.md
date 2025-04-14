@@ -34,6 +34,7 @@ My research interest mainly includes:
 # 📑 Publications 
 Working in Progress (2: Under Review, 1: Revision);
 
+- [Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2504.07521) 
 
 
 
