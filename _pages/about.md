@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi! I’m Haomin, you can call me Jamie though.
+Hi! I’m Haomin —  you can call me Jamie though.
 
 I work at Shenzhen Technology University as a research assistant<img src='images/logo_xtalent.png' style='width: 1.1em;'>, advised by Prof. [Bingding Huang](https://scholar.google.com/citations?user=jfUwaAoAAAAJ&hl=en&oi=ao). Previously, I earned my B.S. degree from [Shenzhen Technology University](https://english.sztu.edu.cn/) <img src='images/logo_SZTU.png' style='width: 1.1em;'> in 2024.
 
