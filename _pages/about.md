@@ -33,10 +33,13 @@ My research interest mainly includes:
   </div>
 </div>
 
+<br>
 
 # 🔥 News
 - *2024.06*:  Outstanding Undergraduate Graduates of Shenzhen Technology University.
 - *2024.01*:  I was awarded the President Scholarship.
+
+<br>
 
 # 📑 Publications 
 
@@ -44,12 +47,14 @@ Working in Progress (2: Under Review, 1: Revision);
 
 - [Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2504.07521), Yuxiang Lin, Jingdong Sun, Zhi-Qi Cheng, Jue Wang, <u>Haomin Liang</u>, Zebang Cheng, Yifei Dong, Jun-Yan He, Xiaojiang Peng, Xian-Sheng Hua
 
-
+<br>
 
 # 💻 Experience
 
 - *2024.07 - Present* &ensp; Research Assistant, [SZTU Medical AI Lab](https://bingding.github.io/) & [Würzburg Dynamics Co., Ltd](https://mp.weixin.qq.com/s/2P0O75t3Q3waspIw2GwB_g).
 - *2021.09 - 2022.08* &ensp; Research Assistant, SZTU-Tencent Cloud & Smart Industries Group ([CSIG](https://www.tencentcloud.com/)) [Lab](https://english.sztu.edu.cn/info/1004/2378.htm).
+
+<br>
 
 # 🏅 Selected Awards
 - *2024* &ensp; Outstanding Undergraduate Graduates of SZTU (top 4%)
