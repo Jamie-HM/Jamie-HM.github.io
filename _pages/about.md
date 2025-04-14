@@ -25,7 +25,9 @@ My research interest mainly includes:
 - **LLM**
 - **Bioinformatics**
 
+**Email**: <u>jamie24618@gmail.com</u>
 
+<span style="color:blue;">Please feel free to email me for academic communication.</span>
 
 # 🔥 News
 - *2024.06*:  Outstanding Undergraduate Graduates of Shenzhen Technology University.
