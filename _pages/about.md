@@ -29,7 +29,7 @@ My research interest mainly includes:
 
 <div align="center">
   <div style="white-space: nowrap;">
-    <span style="color:blue;">I'm open to academic discussions, so feel free to email me anytime.</span>
+    <span style="color:blue;">I'm open to academic discussions, feel free to email📧 me anytime.</span>
   </div>
 </div>
 
