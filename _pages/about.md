@@ -22,7 +22,7 @@ I work at Shenzhen Technology University as a research assistant<img src='images
 
 My research interest mainly includes:
 - **Medical lmage Analysis**
-- **LLM**
+- **LLMs**
 - **Bioinformatics**
 
 **Email**: <u>jamie24618@gmail.com</u>
@@ -73,7 +73,7 @@ Working in Progress (2: Under Review, 1: Revision);
 
 <div align="center">
   <div style="white-space: nowrap;">
-    © Haomin Liang | Last updated: 2025.04
+    © Haomin Liang | Last updated: 2025.05
   </div>
 </div>
 <br>
