@@ -54,7 +54,7 @@ Working in Progress (2: Under Review, 1: Revision);
 # 🏅 Awards (selected)
 - *2024* &ensp; Outstanding Undergraduate Students of SZTU (top 4%)
 - *2024* &ensp; President Scholarship of SZTU (top 2%, 20,000 CNY)
-- *2023* &ensp; First Prize of Research and Innovation Award
+- *2023* &ensp; First Prize of Research and Innovation Award of SZTU
 - *2022* &ensp; China Undergraduate Mathematical Contest in Modeling, National Second Prize (top 3%)
 
 <br>
