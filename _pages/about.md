@@ -40,7 +40,7 @@ My research interest mainly includes:
 
 Working in Progress (2: Under Review, 1: Revision);
 
-- ``2025`` [Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2504.07521), Yuxiang Lin, Jingdong Sun, Zhi-Qi Cheng, Jue Wang, <u>Haomin Liang</u>, Zebang Cheng, Yifei Dong, Jun-Yan He, Xiaojiang Peng, Xian-Sheng Hua\| 🔗[**Project**](https://github.com/Lum1104/EIBench)
+- ``2025`` [Why We Feel: Breaking Boundaries in Emotional Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2504.07521), Yuxiang Lin, Jingdong Sun, Zhi-Qi Cheng, Jue Wang, <u>Haomin Liang</u>, Zebang Cheng, Yifei Dong, Jun-Yan He, Xiaojiang Peng, Xian-Sheng Hua | 🔗[**Project**](https://github.com/Lum1104/EIBench)
 
 <br>
 
